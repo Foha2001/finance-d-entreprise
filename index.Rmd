@@ -1,5 +1,5 @@
 ---
-title: "Cours de Finance internationale"
+title: "Cours de Finance d'entreprise"
 image: "images/isg.jpg"
 links: 
   - label: '<i class="fas fa-envelope"></i> Email'
@@ -15,7 +15,7 @@ site: distill::distill_website
  
 ## Bienvenue --- Welcome ! 
 
-Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel des travaux dirigés et du cours de finance internationale. Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
+Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel du cours de finance d'entreprise Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
 
 
                                                                                Foued Hamouda

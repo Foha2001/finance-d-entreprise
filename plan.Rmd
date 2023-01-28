@@ -1,0 +1,28 @@
+---
+title: "Plan du cours Finance d'entreprise"
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# CHAPITRE 1
+L'ENTREPRISE ET LA BOURSE
+
+# CHAPITRE 2
+LA STRUCTURE FINANCIERE DANS LE CADRE DE MARCHE PARFAIT
+
+# CHAPITRE 3
+LA POLITIQUE DE DISTRIBUTION
+
+# CHAPITRE  4
+LA GOUVERNANCE D'ENTREPRISE
+
+
+
+
+
+

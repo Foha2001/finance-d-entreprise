@@ -1,7 +1,7 @@
 name: "."
-title: "Finance internationale"
+title: "Finance d'entreprise"
 description: |
-  Cours de Finance de finance internationale
+  Cours de Finance d'entreprise
 output_dir: "docs"
 theme: mytheme.css
 navbar:
@@ -9,21 +9,13 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Plan"
-      menu: 
-        - text: "Plan licence"
-          href: plan_licence.html
-        - text: "Plan master"
-          href: plan_master.html
+      href: plan.html
     - text: "Lessons" 
       menu: 
-        - text: "Support de cours"
-          href: support_de_cours.html
         - text: "Chapitre 1"
           href: chapitre-1.html
         - text: "Chapitre 2"
           href: chapitre_2.html
-    - text: "Evaluation"
-      href: evaluation.html
     - text: "About"
       href: about.html
       
