@@ -1,0 +1,46 @@
+---
+title: "Articles"
+description: |
+  In this page you could find some references for corporate finance.
+author:
+  - name: Foued Hamouda 
+    affiliation: University of Gabès
+    affiliation_url: https://example.com/spacelysprokets
+output: distill::distill_article
+---
+<!-- <style type="text/css"> -->
+
+<!-- h1 { /* Header 2 */ -->
+<!--     font-size: 15px; -->
+<!--     color: DarkBlue; -->
+<!--     font-weight: bold; -->
+<!-- } -->
+
+<!-- </style> -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Article 1: Agency Cost of free Cash Flow, Corporate Finance, and takeovers
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "agency cost.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+
+## Article 2: A survey of Corporate Governance
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "survey.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+
+
+
+
+
+
+

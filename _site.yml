@@ -16,6 +16,8 @@ navbar:
           href: chapitre-1.html
         - text: "Chapitre 2"
           href: chapitre_2.html
+        - text: "Articles"
+          href: articles.html
     - text: "About"
       href: about.html
       
