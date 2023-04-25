@@ -37,6 +37,12 @@ knitr::opts_chunk$set(echo = FALSE)
 `r xfun::embed_file(here::here("files", "survey.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
+## Article 3: The Theory of Corporate Finance A Historical Overview
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "corporate finance.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
 
 
 
