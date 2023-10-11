@@ -22,3 +22,15 @@ Veillez le télécharger  ici
 `r xfun::embed_file(here::here("files", "la structure financiere.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
+Le support 3  est disponible en format PDF.
+Veillez le télécharger  ici
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "gouvernance dentreprise.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+
+
+
+
