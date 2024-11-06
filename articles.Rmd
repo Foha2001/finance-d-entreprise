@@ -45,7 +45,26 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 
 
+## Article 4: Rethinking Risk Management
 
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "Stulz.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+## Article 5: Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "theoryofthefirm.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
+## Article 6: Corporate Governance
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "mcdonnell2015.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
 
 
 
