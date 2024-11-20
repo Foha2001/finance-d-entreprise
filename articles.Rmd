@@ -66,6 +66,12 @@ knitr::opts_chunk$set(echo = FALSE)
 `r xfun::embed_file(here::here("files", "mcdonnell2015.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
+## Article 7: Artificial Intelligence-driven corporate finance
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "ai.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
 
 
 
