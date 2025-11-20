@@ -73,5 +73,12 @@ knitr::opts_chunk$set(echo = FALSE)
 `r xfun::embed_file(here::here("files", "ai.pdf"), text = "Télécharger le fichier pdf ici")`
 </div>
 
+## Article 8: POLICY NEWS AND STOCK MARKET VOLATILITY
+
+<div class="contributor_org">
+
+`r xfun::embed_file(here::here("files", "policynews.pdf"), text = "Télécharger le fichier pdf ici")`
+</div>
+
 
 
