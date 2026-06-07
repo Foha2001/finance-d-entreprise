@@ -15,8 +15,12 @@ site: distill::distill_website
  
 ## Bienvenue --- Welcome ! 
 
-Ce site web est destiné à mes étudiants de L'ISG de Gabès.Vous Trouverez l'essentiel du cours de finance d'entreprise Je reste à votre disposition pour toute information complémentaire par mail ou forum de discussion.
-
-
-                                                                               Foued Hamouda
+Ce cours de Finance d'entreprise (Corporate Finance) constitue une étude approfondie des décisions financières au sein des organisations. Il s'appuie sur les fondements de la finance moderne pour analyser comment les entreprises créent de la valeur.
+Les principaux piliers qui structurent ce contenu sont:
+Évolution et Fondements Théoriques : Le passage d'une finance traditionnelle "normative" à une finance "positive" basée sur l'analyse de l'efficience des marchés et les modèles de détermination des prix.
+Théorie de l'Agence et Gouvernance : L'analyse des conflits d'intérêts entre les dirigeants, les actionnaires et les créanciers. Ce cours examine comment les mécanismes de gouvernance et les contrats permettent d'aligner les intérêts et de réduire les coûts d'agence.
+Structure du Capital et Financement : L'étude des choix entre dette et capitaux propres. Il traite des propositions de Modigliani-Miller sur l'irrélevance de la structure du capital en marché parfait, ainsi que de l'impact des taxes, des coûts de faillite et des asymétries d'information sur la recherche d'une structure optimale.
+Politique de Dividendes : L'analyse de l'impact de la distribution des bénéfices sur la valeur de la firme et les signaux envoyés au marché.
+Évaluation d'Entreprise : L'application de méthodes concrètes pour estimer la valeur d'une société, notamment l'approche patrimoniale (Actif Net Corrigé) et la méthode du Goodwill.
+Ce cours prépare ainsi à la compréhension des enjeux stratégiques de financement et d'investissement dans un environnement de marché complexe.
 
